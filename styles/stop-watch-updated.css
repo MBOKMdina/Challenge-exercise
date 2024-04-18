@@ -1,0 +1,11 @@
+.timer-btn,
+.stop-btn,
+.reset-btn
+{
+    background-color: red;
+    color: rgb(170, 117, 17);
+    padding: 15px 15px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
